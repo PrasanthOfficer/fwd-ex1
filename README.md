@@ -2,7 +2,7 @@
 ## Date: 18.03.2025
 ## Reg no: 212224040243
 ## AIM:
-To develop a simple webserver to serve html pages and display the simple webserver.
+To create a simple web server that displays an HTML page with a table.
 
 ## DESIGN STEPS:
 ### Step 1: 
